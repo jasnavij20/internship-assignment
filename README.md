@@ -4,6 +4,7 @@ like creating, updating, querying, and retrieving the transaction history of acc
 
 Features:
 Create Accounts: Add new accounts with specific attributes such as DealerID, MSISDN, MPIN, Balance, Status, TransAmount, TransType, and Remarks.
+
 Read Accounts: Retrieve account details based on DealerID.
 Update Accounts: Modify existing account information.
 Delete Accounts: Remove accounts from the system.
