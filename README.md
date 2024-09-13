@@ -19,8 +19,13 @@ Transaction History: Retrieve mock transaction history for any account.
 API Endpoints
 HTTP Method	Endpoint	Description
 POST	/accounts-	Create a new account
+
 GET	/accounts-	List all accounts
+
 GET	/accounts/{dealerId}-	Get details of a specific account by DealerID
+
 PUT	/accounts/{dealerId}-	Update details of a specific account by DealerID
+
 DELETE	/accounts/{dealerId}-	Delete an account by DealerID
+
 GET	/accounts/{dealerId}/history-	Get transaction history for a specific account by DealerID
