@@ -18,6 +18,7 @@ Transaction History: Retrieve mock transaction history for any account.
 
 API Endpoints
 HTTP Method	Endpoint	Description
+
 POST	/accounts-	Create a new account
 
 GET	/accounts-	List all accounts
